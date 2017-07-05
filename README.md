@@ -4,7 +4,8 @@ A list of JavaScript and CSS libraries for the frontend development.
 ## Animation
 - [Animate.css](https://daneden.github.io/animate.css/)
 - [Velocity.js](http://velocityjs.org/)
-- [ScrollMagic](http://scrollmagic.io/)
 
 ## Scrolling
+- [ScrollMagic](http://scrollmagic.io/)
 - [t-scroll](http://t-scroll.com/)
+- [Midnight.js](http://aerolab.github.io/midnight.js/)
